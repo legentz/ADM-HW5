@@ -1,0 +1,9 @@
+# Project
+data/*
+!.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+*.tsv
+
+# Mac
+.DS_Store
